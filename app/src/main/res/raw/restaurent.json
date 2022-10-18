@@ -1,0 +1,237 @@
+[
+  {
+    "name":"Domino´s Pizza",
+    "address":"Av.das Américas,500",
+    "delivery_charge": 5,
+    "image":"data:image/png;base64,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",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "3 Queijos",
+        "price": 28.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZQU.jpg"
+      },
+      {
+        "name": "Calabresa",
+        "price": 34.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZCLB.jpg"
+      },
+      {
+        "name": "Pizza de Queijo",
+        "price": 32.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZMUS.jpg"
+      },
+      {
+        "name": "Margherita",
+        "price": 35.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZMG.jpg"
+      },
+      {
+        "name": "Pepperoni",
+        "price": 42.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZPEP.jpg"
+      },
+      {
+        "name": "4 Queijos",
+        "price": 32.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZFQ.jpg"
+      },
+      {
+        "name": "Bauru",
+        "price": 35.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZBU.jpg"
+      },
+      {
+        "name": "Catuperoni",
+        "price": 34.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZCU.jpg"
+      },
+      {
+        "name": "Frango ",
+        "price": 28.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZPLF.jpg"
+      },
+      {
+        "name": "Portuguesa",
+        "price": 26.99,
+        "url": "https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZPT.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Fresh e Tasty",
+    "address":"Av.Nações Unidas,101",
+    "delivery_charge": 4,
+    "image":"https://i.pinimg.com/736x/00/ee/8c/00ee8c8f9dcf4d3b1e8587e508b7dc3a.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Hot Dog Americano",
+        "price": 2.99,
+        "url": "https://www.collinsdictionary.com/images/full/hotdog_156787409_1000.jpg"
+      },
+      {
+        "name": "Hot Dog 4x",
+        "price": 9.99,
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_27/1586836/hotdogs-te-square-200702.jpg"
+      },
+      {
+        "name": "Hot Dog Brasil",
+        "price": 5.99,
+        "url": "https://saopauloantiga.com.br/wp-content/uploads/2019/04/cachorroquente_puredebatata.jpg"
+      },
+      {
+        "name": "Batata Frita",
+        "price": 2.99,
+        "url": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "milk shake",
+        "price": 4.99,
+        "url": "https://s2.glbimg.com/ZfRyRFBqVFGN7lg0vbUSK3n0Bpg=/0x0:259x194/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2015/10/12/01_58_53_692_download_1_.jpg"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 4.99,
+        "url": "https://tipsybartender.com/wp-content/uploads/2018/01/Chocolate-Shake.jpg?fit=crop&ar=1:1"
+      },
+      {
+        "name": "Morango Shake",
+        "price": 3.99,
+        "url": "https://i.pinimg.com/564x/dc/92/e9/dc92e9c79ac4d687c2baec34853076d0.jpg"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.99,
+        "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/history-filet-o-fish.jpg?itok=02WqGNE6"
+      },
+      {
+        "name": "Nuggets",
+        "price": 4.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Fanta Laranja 2L",
+        "price": 6.99,
+        "url": "https://www.imigrantesbebidas.com.br/bebida/images/products/full/1883-refrigerante-fanta-laranja-2l.jpg"
+      },
+      {
+        "name": "Coca Cola 2L",
+        "price": 6.99,
+        "url": "https://ibassets.com.br/ib.item.image.large/l-69e3b185924d41599e510db38f15b7a8.jpg"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"Av.Ribeirão Pires,2000",
+    "delivery_charge": 5,
+    "image":"data:image/png;base64,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",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Milk Shake",
+        "price": 4.99,
+        "url": "https://gkpb.com.br/wp-content/uploads/2016/03/novos-mcshakes-milk-shake-mcdonalds-brasil-blog-gkpb.jpg"
+      },
+      {
+        "name": "Big Mc",
+        "price": 5.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3NVkXkMjgjdW6gftKXpn9ZQRx_k5TnlZXapPFwGTWuYR75ZLcYmqm8Jy2XI7K-eUnbU&usqp=CAU"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 5.99,
+        "url": "https://mcdonalds.es/api/cms/images/mcdonalds-es/2be5ea79-e99b-4666-900a-ee6a94d8c6d5_1080x943_MaxiCubo_Nuggets_Alitas.png?auto=compress,format"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 9.99,
+        "url": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$k7XkVpu6/200/200/original?country=br"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6.99,
+        "url": "https://i.pinimg.com/736x/dc/a5/30/dca5306b9e8d5f07eb738356a279fbde--chicken-eggs-egg-muffins.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Frango Frito",
+    "address":"Av.Guarapiranga,250",
+    "delivery_charge": 6,
+    "image":"https://files.menudino.com/cardapios/11385/logo.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Filézinho Sassami ",
+        "price": 79.99,
+        "url": "https://files.menudino.com/cardapios/11385/63.jpg"
+      },
+      {
+        "name": "Coxinha da Asa",
+        "price": 53.99,
+        "url": "https://files.menudino.com/cardapios/11385/53.jpg"
+      },
+      {
+        "name": "Coxinha da Asa",
+        "price": 71.99,
+        "url": "https://files.menudino.com/cardapios/11385/54.jpg"
+      },
+      {
+        "name": "Meio da Asa",
+        "price": 99.99,
+        "url": "https://files.menudino.com/cardapios/11385/57.jpg"
+      },
+      {
+        "name": "Combo Asa",
+        "price": 29.99,
+        "url": "https://files.menudino.com/cardapios/11385/73.jpg"
+      },
+      {
+        "name": "Pedaços Mistos",
+        "price": 49.99,
+        "url": "https://files.menudino.com/cardapios/11385/65.jpg"
+      }
+    ]
+  }
+]

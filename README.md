@@ -1,5 +1,5 @@
 
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://www.svgrepo.com/show/4151/food.svg"> AndroidFood
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://www.svgrepo.com/show/4151/food.svg"> Delivery APP 
 
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/93166095/218273105-e36e2706-de93-4ca5-906e-bd0e6505e987.gif" width="300">
+<img src="" width="300">
 
 
  </div>
@@ -25,10 +25,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/93166095/218273068-b23b9499-cff3-4312-9dfe-8895389c55ba.png" width="200">
-<img src="https://user-images.githubusercontent.com/93166095/218273070-1c2ff2aa-6422-4ea0-94a6-514a593c1eaa.png" width="200">
-<img src="https://user-images.githubusercontent.com/93166095/218273071-55661508-0045-4dc2-ba6c-b0cb611f0950.png" width="200">
-<img src="https://user-images.githubusercontent.com/93166095/218273066-7b7f4fe6-eb67-4257-8376-911a09b7ae2e.png" width="200">
+<img src="https://user-images.githubusercontent.com/93166095/219652490-fbfdf610-d43d-478e-a574-e43845b8b121.png" width="200">
+<img src="https://user-images.githubusercontent.com/93166095/219652489-914a6770-0a5e-4d24-88a0-547af47b7efb.png" width="200">
+
 
 
 
@@ -44,7 +43,7 @@
 ## 📖 Sobre
 
 
-"O projeto visa desenvolver um aplicativo de comida que apresenta diversas opções de lugares para compra de alimentos. O objetivo é facilitar a vida dos usuários, oferecendo uma ampla variedade de escolhas de comida em um só lugar. O aplicativo permitirá a compra de comida diretamente a partir do aplicativo, tornando mais fácil e conveniente para os usuários encontrar e adquirir suas refeições preferidas."
+"Em Andamento"
 
 
 

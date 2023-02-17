@@ -54,24 +54,19 @@ Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de a
 
 O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
-- Android Studio
-- JSON
-- Java
-- adapter
-- XML
-- MVC
-- Intents
-- Bundle
-- Navegação e dados entre Activities
-- CardView
-- Lógica de Programação
-- Pogramação Orientada a Objetos
-- RecyclerView
-- Banco de Dados
-- Mask
-
-
-
+- Integrar una App Kotlin con backend NodeJs
+- Login e cadastro de usuários com JSON WEB TOKENS
+- Manipulando dados em tempo real com SOCKET IO
+- Notificações push com Firebase Cloud Messaging
+- Salvar imagens na nuvem
+- Integração com a API do Google Maps
+- Solicitações HTTP com Retrofit
+- Crie uma API REST com NodeJs
+- Consultas SQL simples e complexas
+- Processamento de pagamentos com Mercado Pago
+- Processamento de pagamentos com Paypal
+- gerenciamento de câmeras
+- Implantar com Heroku
 
 
 ---
